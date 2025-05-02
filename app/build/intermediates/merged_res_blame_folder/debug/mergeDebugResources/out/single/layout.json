@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/fragment_detail.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/fragment_video.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/fragment_video.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/fragment_song.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/fragment_song.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/fragment_look.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/fragment_look.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/activity_splash.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/fragment_saved_song.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/fragment_saved_song.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/fragment_search.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/fragment_music_file.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/fragment_music_file.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/activity_song.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/activity_song.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/item_home_slide.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/item_home_slide.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/fragment_banner.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/fragment_banner.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/item_album.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/item_album.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/fragment_locker.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/fragment_locker.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/fragment_home.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/fragment_album.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/fragment_album.xml"
+    },
+    {
+        "merged": "com.example.clonecodingflo.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "com.example.clonecodingflo.app-main-40:/layout/activity_main.xml"
+    }
+]
