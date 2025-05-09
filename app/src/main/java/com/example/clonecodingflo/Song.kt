@@ -1,0 +1,17 @@
+package com.example.clonecodingflo
+
+import androidx.room.PrimaryKey
+
+data class Song(
+    val title : String = "",
+    val singer : String = "",
+    var second : Int = 0,
+    var playTime : Int = 0,
+    var isPlaying : Boolean = false,
+    var music : String = "",
+    var coverImg: Int? = null,
+    var isChecked: Boolean = false
+
+) {
+    @PrimaryKey(autoGenerate = true) var id: Int = 0
+}
